@@ -1,0 +1,32 @@
+ 1 "Ilha de Malta DVD" 9 1
+ 2 "Dragon Ball Z DVD" 26 0
+ 3 "Estojo" 69 0
+ 4 "Vassora" 96 0
+ 5 "Osgas Ultimate DVD" 78 0
+ 6 "Servico Zon" 0 0
+ 7 "Folhas de Papel Navigator" 1000 0
+ 8 "Optimus Alive Bilhetes" 2 0
+ 9 "Dados" 6 0
+ 10 "Estantes do IkEA" 20 0
+ 11 "Rato Microsoft" 30 0
+ 12 "Esteira" 50 0
+ 13 "Servico MEO" 69 0
+ 14 "Tablet IPAD2" 0 0
+ 15 "Esquadro" 10 0
+ 16 "Teclado Logitech" 56 0
+ 17 "Rato Apple" 89 0
+ 18 "Alternador Mercedes-Benz ///AMG" 3000 0
+ 19 "BMW Serie5" 25 0
+ 20 "Ameijoas" 0 0
+ 21 "Livro C Programing language" 0 0
+ 22 "Historia de Portugal" 100 0
+ 23 "Octave freeware" 0 0
+ 24 "Espuma de Barbear Gillette" 9000 0
+ 25 "Uniball Canetas" 500 0
+ 26 "Mesa IKEA" 600 0
+ 27 "Assus N50Vc notebook" 0 0
+ 28 "Modulo de Memoria Ram" 2000 0
+ 29 "e-escolinhas MAgalhaes" 1000 0
+ 30 "Radiador Volkswagen furado" 2001 0
+ 31 "Diapasao" 5 0
+ 32 "Apple MacBook pro" 1 0

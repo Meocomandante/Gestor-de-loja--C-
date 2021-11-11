@@ -1,0 +1,8 @@
+ "pmd.martins@ieee.org" 5 
+ "pa.martins@ieee.org" 10 
+ "jmdb.oliveira@ieee.org" 0 
+ "rm.martinh@ieee.org" 9 
+ "bugkeeper.498@gmail.com" 25 
+ "policarpo.msf@gmail.com" 9 
+ "luis.martins@gmail.com" 30 
+ "ze@ze.com" 0 
